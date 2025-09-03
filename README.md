@@ -54,7 +54,7 @@ Dataset is available on Kaggle:
 
 ## 🔗 Links
 - 📓 [Kaggle Notebook](https://www.kaggle.com/code/narasimhakasu/netflix-data-analysis-bigquery-python)
-- 📁 [GitHub Repository](ADD_YOUR_REPO_LINK_HERE)
+- 📁 [GitHub Repository](https://github.com/narasimhakasu/netflix-data-analysis-bigquery)
 
 
 ## ✅ What I Learned
